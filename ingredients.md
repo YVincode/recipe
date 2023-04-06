@@ -9,7 +9,7 @@ Ingredients
 
 - ⅓ cup garlic salt or to taste
 
-** Nutrition Facts **
+ Nutrition Facts
 - 366 Calories
 
 - 21g Fat
