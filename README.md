@@ -1,7 +1,6 @@
 # Grilled Tri-Tip
 This grilled tri-tip recipe with a tasty dry rub tastes gourmet but is actually very easy to make. It's a perfect dinner for guests.
 
-<img scr = "https://github.com/YVincode/recipe/blob/641a3b2fe0c73cf474648f99090d279287911b81/recipe.jpg?raw=true" alt = "Grilled Tri-Tip" Style = "width:500px;height: 300px;">
 
 ## Ingredients
 - 4 pounds tri-tip roast
