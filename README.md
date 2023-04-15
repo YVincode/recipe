@@ -32,4 +32,4 @@ Turn the grill down to medium heat and continue to cook, turning occasionally, f
 ## Sources
 [All recipes(Grilled Tri-Tip)](https://www.allrecipes.com/recipe/139269/grilled-tri-tip/)
 last line changed locally
-### This is a LOCAL change :)
+### This is a REMOTE change :O
