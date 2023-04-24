@@ -1,5 +1,9 @@
 ### This is a LOCAL change :)
 # Grilled Tri-Tip
+
+<img src="https://github.com/YVincode/recipe/blob/main/recipe.jpg?raw=true" alt="Grilled Tri-Tip" style="width:500px;height:400px;">
+
+
 This grilled tri-tip recipe with a tasty dry rub tastes gourmet but is actually very easy to make. It's a perfect dinner for guests. line 2 changed remotely
 
 
